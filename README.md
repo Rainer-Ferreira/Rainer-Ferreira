@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Rainer Ferreira
 
-Sou Rainer Ferreira, formo em Dezembro em Gestão da Tecnologia da Informação e estou em busca da minha primeira vaga de Desenvolvedor junior.. Estou focado em me tornar um Desenvolvedor Full Stack, e tenho buscado aprofundar meus conhecimentos em tecnologias como HTML, CSS, Javascript, Python.
+Estou em transição de carreira para a área de programador front end com as tecnologias: - HTML, - CSS, - Javascript.
 
-Com uma forte base em JavaScript e uma paixão por criar soluções eficientes, estou sempre em busca de novos desafios e aprendizados. Meu objetivo é colaborar em projetos inovadores, aprimorar minhas habilidades em desenvolvimento web e software, e fazer a diferença no mundo da tecnologia.
+Meu objetivo é colaborar em projetos inovadores, aprimorar minhas habilidades em desenvolvimento web e software, e fazer a diferença no mundo da tecnologia.
 
 
 - 😄 Pronouns: ele/dele
