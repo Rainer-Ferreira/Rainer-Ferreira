@@ -1,9 +1,6 @@
 ## Olá! Eu sou o Rainer Ferreira
 
-Estou em transição de carreira para a área de programador front end com as tecnologias: - HTML, - CSS, - Javascript.
-
-Meu objetivo é colaborar em projetos inovadores, aprimorar minhas habilidades em desenvolvimento web e software, e fazer a diferença no mundo da tecnologia.
-
+Estou em transição de carreira para a área de programador Front End com as tecnologias: - HTML, - CSS, - Javascript, - React!
 
 - 😄 Pronouns: ele/dele
 
@@ -27,11 +24,6 @@ Meu objetivo é colaborar em projetos inovadores, aprimorar minhas habilidades e
 Linguagens: JavaScript no momento.
 Ferramentas: Git, GitHub, VS Code
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-📚 Aprendizado Contínuo
-Atualmente, estou me aprofundando em:
-
-JavaScript básico, Médio.
-Desenvolvimento Full Stack e Arquitetura de Software
 
 ⚡ Curiosidades
 Sou apaixonado por resolver problemas através da tecnologia.
