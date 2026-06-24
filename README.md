@@ -2,8 +2,7 @@
 
 💻 Gestor de Tecnologia da Informação (Graduação)  
 📊 Analista de Dados   
-🚀 Criador de Dashboards e Sistemas Web
-
+🚀 Analista de TI Pleno
 ---
 
 # 🚀 Tecnologias
